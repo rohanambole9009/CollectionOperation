@@ -9,7 +9,7 @@ public class ArrayListDemo {
 		List<String>list=new ArrayList<String>();
 		list.add("manisha");
 		list.add("rohan");
-		list.add("akshay");
+		list.add("nikhil");
 		System.out.println(list);
 
 	}
